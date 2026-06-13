@@ -56,6 +56,7 @@ npm run dev
 
 # Open browser at http://localhost:5173/
 
+# Live Application: https://resonant-blancmange-7915a5.netlify.app/
 ---
 
 ## 📁 Project Structure

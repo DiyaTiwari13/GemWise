@@ -43,7 +43,7 @@ GemWise is a modern web application that helps users discover their perfect gems
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gemwise.git
+git clone https://github.com/DiyaTiwari13/gemwise.git
 
 # Navigate to project folder
 cd gemwise
